@@ -15,69 +15,80 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-LIOdgMPCoEgaBOBpRHSdzMIXC0BQl+3B20hYRhyoDICAcS6GTJ4jRrobBZhDZWO4VGNzMZ56U9kllzZzrsc34Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-2c839d80c3c2a0481a04e06944749dcc.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-J/5cWm5rrVuxkSgldaK1emf5j30Bs5mRgu0uhuHrG+iwf9mD2LOrkQ32SyN5PADLWzkSDxLS3bW/ScsiM44wzw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-27fe5c5a6e6bad5bb191282575a2b57a.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-W/1pQbqXbVajYzB+B7A5hA/rxIKGbyTLs1PhryoWBKfSRr+SBQSplFKKy7rOAfdQhAZ4Xkcr+UmfVBcLc44r5g==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-5bfd6941ba976d56a363307e07b03984.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-r6jM7hNEN0odiSUJv24oDgphK2qB4fzqoMOI/s2Q64++KnUsmGaJRTSpg5Enw229TZWdEvcmhbmvBIB6FGrXsw==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-afa8ccee1344374a1d892509bf6e280e.css" />
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-eUJW+59+FyVquFyVZmjTRjKUuu2czWjt52ouc2eoxldxpPCoTumZx1/nIU5QtTljXBkl4rYvttZ2abVyMFmVZA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-794256fb9f7e17256ab85c956668d346.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-H6qc0vpCuTqDMaogMpYlDTbK+C4eJW8tG82/h80KlKRIFmV0VD/Y9dv36Fn9XR2SKh9hTt2irBq/tfvaT0eREQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-1faa9cd2fa42b93a8331aa203296250d.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-T8/N7nmDoNCxkRmqgGphmx1Yygfx9lIZvPUQjfUpc6d//Q3bmgKz0sd62gAstmr6EJarvdbDpZ2p3AG7gwtG6g==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-4fcfcdee.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-rAayX+tAGbFvAwJW7fDoX+NNhMtMEh/AERlttmVRsk3Vk4kl27vs8D6s8IEJs7dMixb+J1VNqDLcAjlssMguJw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-ac06b25f.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-czQZrI8Ar39Oil36WxqNfOBo7pZqlK1CUHWZ8CF9jMxyawHGQ+lKiPtd25OvoNHZF69LfWPpafuwqxcfiG/iYA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-733419ac.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-YOzkTPNBhsGBHTWNXcjLCxYM3ANDGkp2gejU1oLAxIG4g8VAZJlFYJX2Eo//GCdStAeiby9Y2FecMxmDQwj+Ow==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-60ece44c.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-o8t3W1nrlgoFZT6UMLF/yHNEDGmxaBh82tqioH9a/dHwpfhnPOqRI4w2XdbbJAahCid728t48CCDZz9F+Zm4wg==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-a3cb775b.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-Nof93xeMudma5NoKgMI6z0Fk9c1wmbaj6MOpEdryrLvrJOIFcqJ8zNtpX1tEZ3ZwMrMZ5uO+MWgYUUHQnft6HA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-3687fddf.js"></script>
   
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-VuP/2HeHlwuxYb9sV0y9/hgN869dWIQDX2WZrvh4VAQjo6tb7PXzbBz0nOYROez0xFLxRc/u6sVU6fuYgcpN8w==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-56e3ffd8.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ct3QiK2mvpg7zor9R2psdWnNMM2K32RU4RGRB/7yA5FyZ8H4iY6SNynXc7UaJqzBx6NaReg3GsWJPwW3kgAAig==" type="application/javascript" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-72ddd088.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-EKOvqJ9uTatAt87WxU+OSS4mi7gMUszFbGo4aPErQkjpWLXnrPSeZvK5ngU8OYoIoiVOq+v8dA3C6MF/z2d/kA==" type="application/javascript" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-10a3afa8.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-zkYZSjUFqSifB+Lt76jclFMrfqpcPqevT801RZcoBNCZHRTBKcFrW9OyJoPOzKFv+fZVDRnqdqGsuIv5KOIgZg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-ce46194a.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-5tWKSr7mhAzSh4Sx5YRFgKftdGxKwHKnOGYw5DlxjHhkQVURYFU3Bk5IMOGMKuAiJTlC3OXYM3xzGcyjzuEFQQ==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-e6d58a4a.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-0MZorw3oXnKy5eeSwQ9xGrKU4hxQeCXxmyxhneIHNhDIqu8vWh8mHss9FlC75Xd/bPWxFDCvdOo57tnTR46nbA==" type="application/javascript" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-d0c668af.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-M6W/sGLOuJXCIkw+doDl6zl7J9q2DmqdwftQCtyEiZM/UJNGRVQdyKwI/PAMxD12se/wCx3ZcyJs9nz0o0OSVw==" type="application/javascript" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-33a5bfb0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-71HZu1T5JWqRNF9wrm2NXZAqYVvzxZ8Dvor5U5l/LuEBbGCBX57Sny60Rj+qUZZAvEBGFlNsz179DEn2HFwgVA==" type="application/javascript" data-module-id="./chunk-confetti.js" data-src="https://github.githubassets.com/assets/chunk-confetti-ef51d9bb.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-P29U0lNmhUj353VrCWp6czdhNpMtF70xVKf4GBGFVKCoqGtxp0sywAM8/46+iC0kdFiRvM13EBvDnq6oyWRwiw==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-3f6f54d2.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-arflMFcVzVAYaP2n7m7gklPChWsVsCDtRPav2Cb6bqLeJf8pgbojWJ3EseKXILCIqfxl/v6arBduZ9SLmpMEZw==" type="application/javascript" data-module-id="./chunk-delayed-loading-element.js" data-src="https://github.githubassets.com/assets/chunk-delayed-loading-element-6ab7e530.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VSSd+Yzi2iMS+pibY6hD/WdypxAEdob5F2RMKxuKcAHS2EpFYJPeTXoVxt0NXg03tfj2dka2mEtHS+vjpYSaDw==" type="application/javascript" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-55249df9.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-N+ziqJjVMfWiqeVHdayDHpNRlG5HsF+cgV+pFnMDoTJuvBzgw+ndsepe4NcKAxIS3WMvzMaQcYmd2vrIaoAJVg==" type="application/javascript" data-module-id="./chunk-edit.js" data-src="https://github.githubassets.com/assets/chunk-edit-37ece2a8.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-XObZgIojqwx94ekra728uVPTHs30O37w4+dNCDNUrZXRnGmFRcitdymWoSEm7ztcvhzboxHmXOSP2TeoPSfQ5Q==" type="application/javascript" data-module-id="./chunk-edit.js" data-src="https://github.githubassets.com/assets/chunk-edit-5ce6d980.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ejCT9r9E93nir+wK3PibZdMK0J3VXEkbwlgdnOnaUNoiJDI60BMtFt1QwjMU/rLXcjnH0xvgVFINGBFkzvTmRw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-7a3093f6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-qqRgtYe+VBe9oQvKTYSA9uVb3qCKhEMl3sHdsnP8AbVRfumjSOugTCEN1YLmnniNBMXb77ty2wddblbKSaQE1Q==" type="application/javascript" data-module-id="./chunk-failbot.js" data-src="https://github.githubassets.com/assets/chunk-failbot-aaa460b5.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-YrRWJ3DBTEGQ3kU5vH0Btt+bjUcZHoTj66uIO7wFIfT1LoKJQ0Q2+UTn4rmeKn+PrnMAnQogCNC6Lka17tDncw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-62b45627.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Z1wcyOFQHzyMSPqp5DLKrobr3DN2Q6Dz31cfPtw4b2vPs9PX0PrxyDXHpTbIlcZ9qT1M1BNAypHKKw8Lp6Yx/Q==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-675c1cc8.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Y+VVFzGHo9J5bf4Mrn+RGrh1+IExdybA3C1QqPha3UwkV9RZ75jZgV4DsujViAF0iT9OrLYYHvPk9V6QiXjp3g==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-63e55517.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-mMOvER8Uml4WMYbXv8BaahVq9eF1v5Hu7M9/3oPlOFPmTJGH+TmvcRPt8fddj86urb+Ri+vlqotFspA/4STDsQ==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-98c3af11.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Lo0j1owPfYM0txt85KwGzF1PQJLvLFGbRJoASd5ZKMQAV9ZSDg5bVm5UWBAz7glGzw1pkiUD2bCMs2wqyf+CEA==" type="application/javascript" data-module-id="./chunk-notification-list-focus.js" data-src="https://github.githubassets.com/assets/chunk-notification-list-focus-2e8d23d6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-CqT7DFJm8e7yxvsDEb2AZLpdRHyFS9eqZpu6hvJ4Vkv6ybVThoa5tgTvyNQDZyBWy6V+kWHqxd5x3SkTpHHEGw==" type="application/javascript" data-module-id="./chunk-insights-query.js" data-src="https://github.githubassets.com/assets/chunk-insights-query-0aa4fb0c.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-lmosGyye+/xONUQs9SwGN/a9fQvUSiAFk5HrL8eLHjeuOx9DX9TW5ckRKFD+6FM54vutFf/mBmNFW/0R3KJEBw==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-966a2c1b.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-4MxGQhsDODvZgLbu5arO6CapfnNvZ5fXMsZ47FiklUKRmHq4B3h8uTokSIWAOAxsvCMRrZr0DVZ0i0gm3RAnsg==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-e0cc4642.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-VtdawM/OSsu+d6v25ZY6UcQa/GGLAStSESjsqdEwx+ey88GNYGkQ24o+JFFo4lY+7wLMRf7aCrLxkA5SquBoNQ==" type="application/javascript" data-module-id="./chunk-launch-code-element.js" data-src="https://github.githubassets.com/assets/chunk-launch-code-element-56d75ac0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-RduaLAviB2ygvRK/eX5iwzYO43ie7svrJ0rYJs06x7XqpRl/IK8PPBscBWM9Moo5Z86DK2iRLE2+aR7TJ5Uc2Q==" type="application/javascript" data-module-id="./chunk-metric-selection-element.js" data-src="https://github.githubassets.com/assets/chunk-metric-selection-element-45db9a2c.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-7hZ031ngiF36wGsfcoyyCWTqwYxjX+qeTLtCV7CJ+IO+wzkzCm1RoR3WzWczfWmwLNqr+Hu3kQOgkBaGn4ntWQ==" type="application/javascript" data-module-id="./chunk-notification-list-focus.js" data-src="https://github.githubassets.com/assets/chunk-notification-list-focus-ee1674df.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-hgoSKLTlL8I3IWr/TLONCU+N4kdCtdrHCrrud4NKhgRlLrTw0XUPhqBaDdZUiFSzDQRw/nFQ1kw2VeTm0g9+lA==" type="application/javascript" data-module-id="./chunk-profile.js" data-src="https://github.githubassets.com/assets/chunk-profile-860a1228.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-dmP0pnRItCP7ydEXVipp98lz/HaQtHyG00kfd8lMS5AoLbDwGfqXPjj7Q0qLGpPc7lBkySNNHIeEPF7NblctEA==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-7663f4a6.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-F0E2A5YYSz+7eA/RyQ/vYtJzeK2sjNyyneVBqru/CPoRXGBiAcJ2tpN2MWLxkNCqirt88h/BMCAF/7YTZ2qZJA==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-17413603.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Zii9oRdZ6q2QDNjL5A+me7jwJjMLvs1NiQNHmajUZnn4t9shcBDb4F8l/PQZW26eYfe5065oM7lIOSmbMinA7Q==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-6628bda1.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-9WNXtB07IyWypiPmkuucspwog4mme9q5GKGMSgd7FI0DPimmg/pEw+aaAofFV1vuWMt9I8H5QpsVtlbHGg1YBA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-f56357b4.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-fIq9Mn7jY/bHQXnsmh+VejpDnaO+d/FDxsp+4CuZtdNLrLuO+dQCjh+m6Yd8GCYD2Cy6DWbCEyM+mH2dkB2H9A==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-7c8abd32.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-/fwTpG2i+GCgHEZc/35F+pXdShv1RfJMxyixcTIxzxDdylOWVJvjIWoumYWEPj7gUqBdrWt4SFf989Szmxleaw==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-fdfc13a4.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-D/MxBjtRPjes6DvnYGi2dEH7AQEnLvSvTODabEkSo+1zP6SSEZpb8oF52kFWERA97t1L19fF/P3bn4pgIsMPuA==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-0ff33106.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-SWy36S28Js+/YzsvYgmp+IEdC0qtMcBf6sYhXTEcj1aFPCLPOTOnOKqzFiNyH2oNVDd+u5Qi8eqYINSIu28LFQ==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-496cb7e9.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-46wqItV5Pi6vzI9QkKDjwgwyI2luPiKlLp+jdWUle1wUAWzUh3BX3+/DmehNua4VT0ZvvcswOISMWcWLOXCOdw==" type="application/javascript" data-module-id="./chunk-series-table.js" data-src="https://github.githubassets.com/assets/chunk-series-table-e3ac2a22.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-tk76eoSLUqXSVZ8ANzPprrOImFIV1zQ/VBV+WzG8ZjZpVPH8cLkMH/ur5HJB1lxx9/yo+V2wjDF96t4qfUwZLA==" type="application/javascript" data-module-id="./chunk-severity-calculator-element.js" data-src="https://github.githubassets.com/assets/chunk-severity-calculator-element-b64efa7a.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-j7Pb1H+2Xt4YIKSrJLLXxl/NNkkpW//5PLTpu58JGD8pqRPODDjJKqjO6YPZd++BB4VJubHPjzvuMXhW/9jcqA==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-8fb3dbd4.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-nKa3UdA2O7Ve4Jn24gaB20yUfJvS7wlnd8Q8C+iWD8i2tXLgaKemDWkLeexeQdrs+an98FCl5fOiy0J+izn+tQ==" type="application/javascript" data-module-id="./chunk-three.module.js" data-src="https://github.githubassets.com/assets/chunk-three.module-9ca6b751.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-vgHJEmEJxNmHucGbVY8bEUoOYo5/ZwpQ69rU8Dld89daWJ54uad9lNptxq32F8pnbHhdngw9lohNEbMbjmj5AQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-be01c912.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-aSxfTHAZj9wv7n08DxgAKkNg7jhiTo4yKKbDqLGxcDxUk/al571Y2ZSsOmLJ0Vh8cuAL8tW+JgX1t0JeKfyfaA==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-692c5f4c.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-1vSZvwpr106s8wjSNFNFGVmFT2E4YjI2N8k6JqiSb28GGYMkEJUhveotmvB00Z4bQZM61ZgvWcXax1U3M48gLQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-d6f499bf.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-UOFNW/xcxynplVfC8Y3fQdFFiasmugYUUHU4N90G8sqBZGL1yR37yjVakxV8/FV5deBALx9OQMBoiba/3OHGDA==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-50e14d5b.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-cKu/+X7gT+WVH4sXKt0g3G77bfQfcgwurRObM+dt8XylPm9eEWI+/aWKhVab6VsYuvvuI5BTriKXhXfJwaSXdQ==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-70abbff9.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-RNox4a6ApSlI2qY0iLpxZGWT4zM4QA51Jaa6QBy3aCiYGD6S3oTTfPXhHInKLzI8X77tnnJuqww2VsefuZRizw==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-44da31e1.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-g8AcswiLzacGKVK2+Z4Y7SUoga++8vFE+E+ZXLDnDXFQYoosl0QNK+9Hf0f2U5ZhSLRGUx2gMi/XHA5okjHIxg==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-83c01cb3.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-9Ux7Idk4v6NfGWWacPgVOXymjG/0NapCoK352oWRQAb6yzpMuh4dfmo33HNbxQytH00P1bmOScD2Z3KZwJMS1Q==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-f54c7b21.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-tSnUsdlbqbVl9w12DPULfAYz14KCDuCVpzc/b4hV54jZT+8LUKqBxG5mPEzNzLyhh1nKAeueWHYy3sJv0DLVaw==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-b529d4b1.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
-  <title>startbootstrap-resume/README.md at master · StartBootstrap/startbootstrap-resume</title>
-    <meta name="description" content="A Bootstrap 4 resume/CV theme created by Start Bootstrap - StartBootstrap/startbootstrap-resume">
+  <title>abdelrazek.github.io/README.md at master · abdelrazekrizk/abdelrazek.github.io</title>
+    <meta name="description" content="Contribute to abdelrazekrizk/abdelrazek.github.io development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/8c3e7a7fa6e282eb0cdb16add65f45876a19f34e1e3eee3f3a40af4fe8064e4f/StartBootstrap/startbootstrap-resume" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="StartBootstrap/startbootstrap-resume" /><meta name="twitter:description" content="A Bootstrap 4 resume/CV theme created by Start Bootstrap - StartBootstrap/startbootstrap-resume" />
-    <meta property="og:image" content="https://opengraph.githubassets.com/8c3e7a7fa6e282eb0cdb16add65f45876a19f34e1e3eee3f3a40af4fe8064e4f/StartBootstrap/startbootstrap-resume" /><meta property="og:image:alt" content="A Bootstrap 4 resume/CV theme created by Start Bootstrap - StartBootstrap/startbootstrap-resume" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="StartBootstrap/startbootstrap-resume" /><meta property="og:url" content="https://github.com/StartBootstrap/startbootstrap-resume" /><meta property="og:description" content="A Bootstrap 4 resume/CV theme created by Start Bootstrap - StartBootstrap/startbootstrap-resume" />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7c179be204ada0940dfbeec7596001019841f508bb20394adeb4733a121bf4d2/abdelrazekrizk/abdelrazek.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="abdelrazekrizk/abdelrazek.github.io" /><meta name="twitter:description" content="Contribute to abdelrazekrizk/abdelrazek.github.io development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/7c179be204ada0940dfbeec7596001019841f508bb20394adeb4733a121bf4d2/abdelrazekrizk/abdelrazek.github.io" /><meta property="og:image:alt" content="Contribute to abdelrazekrizk/abdelrazek.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="abdelrazekrizk/abdelrazek.github.io" /><meta property="og:url" content="https://github.com/abdelrazekrizk/abdelrazek.github.io" /><meta property="og:description" content="Contribute to abdelrazekrizk/abdelrazek.github.io development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/9618515/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NjE4NTE1LCJzIjo2OTA0Njk5NDYsImMiOjE1MzA5MzM3NTIsInQiOjE2MjE3MzAxNzZ9--5af736bfbabb63c7961dd536742fecf91a8a5632c51ffd7c8c4ad7c5f47845e6" data-refresh-url="/_alive" data-session-id="0639d59fd1e797bf917f7adcb1235b9fbf8ff91b72166573ec8b893f7110d796">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/9618515/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NjE4NTE1LCJzIjo3MjI1NzkzMzcsImMiOjE2Mjg1NTQwNDgsInQiOjE2MjYxMjQ1NTB9--b7e559d418c08ea2ca08df274de646f815bd81554a6452621534aa9e0ee7b33f" data-refresh-url="/_alive" data-session-id="7423697970c3651721edc76ffb382677c946e8572af12ad5d4722867b27f407b">
     <link rel="shared-web-socket-src" href="/socket-worker-3f088aa2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F7F9:11088:2C66DC1:2E4C3B4:60A9A37F" data-pjax-transient="true" /><meta name="html-safe-nonce" content="e00af1483e5c67dea1f6563023fa28f854c8c22d28dfff7c18a875ae20c03e9a" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zdGFydGJvb3RzdHJhcC9zdGFydGJvb3RzdHJhcC1yZXN1bWUiLCJyZXF1ZXN0X2lkIjoiRjdGOToxMTA4ODoyQzY2REMxOjJFNEMzQjQ6NjBBOUEzN0YiLCJ2aXNpdG9yX2lkIjoiMzk1ODA5OTc5Njk4MDQ1OTY2NyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="c8d6a8665fb036f9b21d90296c37ece137a19e467d1a94617d70ffaeefe59786" data-pjax-transient="true" />
+  <meta name="request-id" content="C243:1034E:6ADBF01:6EC38FE:60ECB105" data-pjax-transient="true" /><meta name="html-safe-nonce" content="5d36182f90882016acf5f6f0d85e9d8111e1d3e10da9f1b5605a913e7c495a41" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hYmRlbHJhemVrcml6ay9hYmRlbHJhemVrLmdpdGh1Yi5pby9maW5kL21hc3RlciIsInJlcXVlc3RfaWQiOiJDMjQzOjEwMzRFOjZBREJGMDE6NkVDMzhGRTo2MEVDQjEwNSIsInZpc2l0b3JfaWQiOiI1OTcwMTA2OTczNzQxMTMxNDUzIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="5bec910355cc426ff8c58b34b87d1dca7ab1422cfc76415b53a6578f44835ec6" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:108500610" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:166779673" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -99,10 +110,10 @@
 
 
 
-  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20106410318&quot;, &quot;key&quot;: &quot;en&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20122000362&quot;, &quot;key&quot;: &quot;ko&quot;}], &quot;id&quot;: &quot;20121990335&quot;, &quot;key&quot;: &quot;ko_homepage_translation&quot;, &quot;layerId&quot;: &quot;20100420349&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20106410318&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20122000362&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20227754799&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20233267869&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20194668672&quot;, &quot;key&quot;: &quot;recommended_plan_in_signup&quot;, &quot;layerId&quot;: &quot;20231804245&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20233267869&quot;, &quot;endOfRange&quot;: 2500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20227754799&quot;, &quot;endOfRange&quot;: 7500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;d0c8cbf56b61c99517936207d280de0c&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20233300304&quot;, &quot;key&quot;: &quot;launch_code_variation&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20227370325&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;20206000276&quot;, &quot;key&quot;: &quot;launch_code_verification&quot;, &quot;layerId&quot;: &quot;20233240262&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20233300304&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20233300304&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20236992340&quot;, &quot;key&quot;: &quot;usd&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20184442182&quot;, &quot;key&quot;: &quot;localized_currency&quot;}], &quot;id&quot;: &quot;20233233507&quot;, &quot;key&quot;: &quot;local_currency_pricing&quot;, &quot;layerId&quot;: &quot;20212472765&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20184442182&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20236992340&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;667685045.1617740930&quot;: &quot;localized_currency&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [&quot;20121990335&quot;], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [&quot;20121990335&quot;], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [&quot;20121990335&quot;, &quot;20233233507&quot;], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [&quot;20233233507&quot;], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [&quot;20206000276&quot;], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}], &quot;revision&quot;: &quot;686&quot;}" />
+  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20227754799&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20233267869&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20194668672&quot;, &quot;key&quot;: &quot;recommended_plan_in_signup&quot;, &quot;layerId&quot;: &quot;20231804245&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20233267869&quot;, &quot;endOfRange&quot;: 2500}, {&quot;entityId&quot;: &quot;20227754799&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20227754799&quot;, &quot;endOfRange&quot;: 7500}, {&quot;entityId&quot;: &quot;20233267869&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;d0c8cbf56b61c99517936207d280de0c&quot;: &quot;treatment&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [&quot;20194668672&quot;], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}], &quot;revision&quot;: &quot;702&quot;}" />
   <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
     <head> tag before the DOM renders -->
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-yDmmCGyENqEePvF9X9A4omxWCNcbS6qK2h8HZPdnvXd02Vzhtqd0zRd/pgTgqQ/xOA02F3H225VpJvDXrnfNbA==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-c839a608.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-+jU501Se8pk+19AWlNhSR/uznFeWGI9ndTB52CGeN8Fze/Srm+6H0FN6FCnvSdvVMtHwsV1NGq1sX5RvBwEGAg==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-fa3539d3.js"></script>
 
 
 
@@ -114,21 +125,21 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MGJhOGJjYjUwMjc4ZTNlM2I4ZjIxNjljMmY1ODdhZmI3YzU2MWU3ZWI2Nzk4NGY4YTY3Y2E0NGEyMDM2MjQ3M3x7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjIxOS45Ni40MSIsInJlcXVlc3RfaWQiOiJGN0Y5OjExMDg4OjJDNjZEQzE6MkU0QzNCNDo2MEE5QTM3RiIsInRpbWVzdGFtcCI6MTYyMTczMDE3NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NDJjNjc3YTFmNWQwYTRlNzUxM2Q0YmJjNTczMGJmMWVhYzZjMTU4ODVmYzBiZWU2MmVmNzgxOTViMDU1NDYxNXx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjIxOC4yMTcuMjIzIiwicmVxdWVzdF9pZCI6IkMyNDM6MTAzNEU6NkFEQkYwMTo2RUMzOEZFOjYwRUNCMTA1IiwidGltZXN0YW1wIjoxNjI2MTI0NTUwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
-    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR,GITHUB_TOKEN_PERMISSION,ACTIONS_CONCURRENCY_UI">
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GITHUB_TOKEN_PERMISSION">
 
-  <meta http-equiv="x-pjax-version" content="dcb20b65c1392de9b5c3ce7ff013ca876bd83796da3d48d02e639645579b69c0">
+  <meta http-equiv="x-pjax-version" content="f6a2c025a356b0a1ef3398860e65b2618b5f810796f09aa38b7feaad6e0c5a3c">
   
 
     
-  <meta name="go-import" content="github.com/StartBootstrap/startbootstrap-resume git https://github.com/StartBootstrap/startbootstrap-resume.git">
+  <meta name="go-import" content="github.com/abdelrazekrizk/abdelrazek.github.io git https://github.com/abdelrazekrizk/abdelrazek.github.io.git">
 
-  <meta name="octolytics-dimension-user_id" content="58701512" /><meta name="octolytics-dimension-user_login" content="StartBootstrap" /><meta name="octolytics-dimension-repository_id" content="108500610" /><meta name="octolytics-dimension-repository_nwo" content="StartBootstrap/startbootstrap-resume" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="108500610" /><meta name="octolytics-dimension-repository_network_root_nwo" content="StartBootstrap/startbootstrap-resume" />
+  <meta name="octolytics-dimension-user_id" content="9618515" /><meta name="octolytics-dimension-user_login" content="abdelrazekrizk" /><meta name="octolytics-dimension-repository_id" content="166779673" /><meta name="octolytics-dimension-repository_nwo" content="abdelrazekrizk/abdelrazek.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="166779673" /><meta name="octolytics-dimension-repository_network_root_nwo" content="abdelrazekrizk/abdelrazek.github.io" />
 
 
 
-    <link rel="canonical" href="https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -147,7 +158,7 @@
 
   <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
 
-<meta name="enabled-homepage-translation-languages" content="ko">
+<meta name="enabled-homepage-translation-languages" content="">
 
   </head>
 
@@ -162,6 +173,7 @@
       
 
 
+        
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
       <a class="Header-link " href="https://github.com/" data-hotkey="g d"
@@ -173,31 +185,33 @@
 
     <div class="Header-item d-md-none">
       <button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
-        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
+        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="24" width="24" class="octicon octicon-three-bars">
+    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+</svg>
       </button>
     </div>
 
     <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
           
+
+
   <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
-    role="combobox"
-    aria-owns="jump-to-results"
-    aria-label="Search or jump to"
-    aria-haspopup="listbox"
-    aria-expanded="false"
   >
     <div class="position-relative">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="108500610" data-scoped-search-url="/StartBootstrap/startbootstrap-resume/search" data-owner-scoped-search-url="/orgs/StartBootstrap/search" data-unscoped-search-url="/search" action="/StartBootstrap/startbootstrap-resume/search" accept-charset="UTF-8" method="get">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="166779673" data-scoped-search-url="/abdelrazekrizk/abdelrazek.github.io/search" data-owner-scoped-search-url="/users/abdelrazekrizk/search" data-unscoped-search-url="/search" action="/abdelrazekrizk/abdelrazek.github.io/search" accept-charset="UTF-8" method="get">
         <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
           <input type="text"
             class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
-            data-hotkey="s,/"
+            data-hotkey=s,/
             name="q"
             value=""
             placeholder="Search or jump to…"
             data-unscoped-placeholder="Search or jump to…"
             data-scoped-placeholder="Search or jump to…"
             autocapitalize="off"
+            role="combobox"
+            aria-haspopup="listbox"
+            aria-expanded="false"
             aria-autocomplete="list"
             aria-controls="jump-to-results"
             aria-label="Search or jump to…"
@@ -205,9 +219,9 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" value="OyjWMncXpFLxMcIlFuuKWFs6GysffPtWFK/DslCfkApQTsVI8unx3TjgvlnB5c++5yVaKnsvukBlyMNK9YzXYg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="1tIBqL6bEer7YCapOKNXj70E557tdxOkEKCh+jA7yjRjY5oflYk1L1aO+BitwUtETPxPd0kwBFj365YxpmDV3A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
-            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+              <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
             <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
               
@@ -301,8 +315,8 @@
     </div>
 
     <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
-        In this organization
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user">
+        In this user
       </span>
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
@@ -364,37 +378,37 @@
   </div>
 
         <nav class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto" aria-label="Global">
-      <a class="Header-link py-md-3 d-block d-md-none py-2 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:dashboard:user" aria-label="Dashboard" href="/dashboard">
+      <a class="Header-link py-md-3 d-block d-md-none py-2 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:dashboard:user" aria-label="Dashboard" href="/dashboard">
         Dashboard
 </a>
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
         Pull<span class="d-inline d-md-none d-lg-inline"> request</span>s
 </a>
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
       Issues
 </a>
       <div class="d-flex position-relative">
-        <a class="js-selected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
+        <a class="js-selected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
           Marketplace
 </a>      </div>
 
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
       Explore
 </a>
-    <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
+    <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;abdelrazekrizk&quot;,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="3636125af3cd4c59ab1ddc8f7385587605ffc2b4c94f90653cc06c619a904a6d" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;abdelrazekrizk&quot;,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="7b786121b0f2f07b99aec119974b95b9d6f6296f732cf70ffdb2ab78dc16f97e" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/settings/profile">
+    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
 </a>
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/abdelrazekrizk">
+    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/abdelrazekrizk">
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/9618515?s=40&amp;v=4" width="20" height="20" alt="@abdelrazekrizk" />
       abdelrazekrizk
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XrFMUemkrvT2ygjtXX4Jnx1kaYGyoLH9RzivNxO7Cy6yJtDTzFvGuB6b262ncao1tbjwcSmnZlxyZMYHhWP7yQ==" />
-      <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RBhM5CPlK8GoezU0SinNXnSi+ec6pySSY1A+8BGq3n6d6L8CdB3qfLzR00XmTpyjW9Mqx/pvz3artAPEUMXi4A==" />
+      <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
       </button>
@@ -417,15 +431,15 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTYxODUxNSIsInQiOjE2MjE3MzAxNzZ9--93e8d306c9b9808e509ff885b59a4584d1236c0e303ef58acfe90a11a22db200">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTYxODUxNSIsInQiOjE2MjYxMjQ1NTB9--ef058f0ebf0217612e20154fdfffae3ee4dd64c4b17b66aa6581cc5bceb5dc6b">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
-          aria-label="You have no unread notifications"
+          aria-label="You have unread notifications"
           data-hotkey="g n"
-          data-ga-click="Header, go to notifications, icon:read"
+          data-ga-click="Header, go to notifications, icon:unread"
           data-target="notification-indicator.link">
-          <span class="mail-status  " data-target="notification-indicator.modifier"></span>
+          <span class="mail-status unread " data-target="notification-indicator.modifier"></span>
           <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
@@ -436,7 +450,7 @@
 
 
     <div class="Header-item position-relative d-none d-md-flex">
-        <details class="details-overlay details-reset js-header-promo-toggle">
+        <details class="details-overlay details-reset">
   <summary class="Header-link"
       aria-label="Create new…"
       data-ga-click="Header, create new, icon:add">
@@ -463,14 +477,6 @@
   </a>
 
 
-  <div role="none" class="dropdown-divider"></div>
-  <div class="dropdown-header">
-    <span title="StartBootstrap/startbootstrap-resume">This repository</span>
-  </div>
-    <a role="menuitem" class="dropdown-item" href="/StartBootstrap/startbootstrap-resume/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
-      New issue
-    </a>
-
 
   </details-menu>
 </details>
@@ -479,7 +485,7 @@
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
         
-  <details class="details-overlay details-reset js-header-promo-toggle js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/abdelrazekrizk/feature_preview/indicator_check">
+  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/abdelrazekrizk/feature_preview/indicator_check">
 
   <summary class="Header-link"
     aria-label="View profile and more"
@@ -508,7 +514,6 @@
 </details>
 
     </div>
-    
 </header>
 
             
@@ -558,9 +563,6 @@
       
 
       
-    
-
-
 
 
 
@@ -568,7 +570,7 @@
   
 
 
-  <div class="color-bg-secondary pt-3 hide-full-screen mb-5">
+  <div class="hx_page-header-bg pt-3 hide-full-screen mb-5">
 
       <div class="d-flex mb-3 px-3 px-md-4 px-lg-5">
 
@@ -576,11 +578,11 @@
             <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
     <svg class="octicon octicon-repo color-text-secondary mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/StartBootstrap/hovercard" href="/StartBootstrap">StartBootstrap</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/abdelrazekrizk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/abdelrazekrizk">abdelrazekrizk</a>
   </span>
   <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" href="/StartBootstrap/startbootstrap-resume">startbootstrap-resume</a>
+    <a data-pjax="#js-repo-pjax-container" href="/abdelrazekrizk/abdelrazek.github.io">abdelrazek.github.io</a>
   </strong>
   
 </h1>
@@ -598,10 +600,10 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="d0a905dd8fc7b903d4e350f39f9d8bfb1aed930c637e1316ece5c2ae54d22c42" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="9edf8e0621ec60f3836a43d279ec09d0bf754b6680ce8083f9a1b6502f95b7c9" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
-              hidden
+              
               
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
@@ -621,7 +623,7 @@
               Stop ignoring
             </span>
             <span
-              
+              hidden
               
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
@@ -650,9 +652,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MJpNKizZkOe397bQgVbKomkwFcbhyxn1GJKnbZvoMDR5mJC0dndJMffs/4PraH+DjYoaVEVYB96qSomHxXDaFg==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gV3oiXHXAz+/XUl1x29UQnMrMeaUsRtZxK5hgAgCW4DUiuyqq1NLef5Qmat1mKL42oUf2ITAgmA0KtKzOL2aXA==" />
 
-                <input type="hidden" name="repository_id" value="108500610">
+                <input type="hidden" name="repository_id" value="166779673">
 
                 <button
                   type="submit"
@@ -660,7 +662,7 @@
                   value="included"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="true"
+                  aria-checked="false"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                   
                 >
@@ -685,7 +687,7 @@
                   value="subscribed"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="false"
+                  aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                 >
                   <span class="f5">
@@ -762,9 +764,9 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zQ6zDqiGMCdUmeSEfgfodrgWa0a9NMTWzzo4abmJQOuEDG6Q8ijp8RSCrdcUOV1XXKxk1Bmn2v194haD5xGqyQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SzRIGbv0iIbhDaH1HPkckAbbG7L4BY4Vcv54Rsx+cj0e40w6YXDAwKAAcSuuDuoqr3U1jOh0FyyCest1/MGz4Q==" />
 
-              <input type="hidden" name="repository_id" value="108500610">
+              <input type="hidden" name="repository_id" value="166779673">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -895,22 +897,23 @@
                   disabled
                 >Apply</button>
 
-                <button
-                  class="btn btn-sm"
-                  type="button"
-                  data-action="click:notifications-list-subscription-form#resetForm"
-                  data-close-dialog="">Cancel</button>
+                <button data-action="click:notifications-list-subscription-form#resetForm" data-close-dialog="" type="button" data-view-component="true" class="btn-sm btn">
+  
+  Cancel
+  
+
+</button>
               </div>
 </form>          </div>
         </details-dialog>
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/StartBootstrap/startbootstrap-resume/watchers"
-          aria-label="29 users are watching this repository"
+          href="/abdelrazekrizk/abdelrazek.github.io/watchers"
+          aria-label="1 user is watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
-          29
+          1
         </a>
     </notifications-list-subscription-form>
 
@@ -920,28 +923,28 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/StartBootstrap/startbootstrap-resume/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VWEm+kAguB2g2QFf1EEGc0DNAUfmNfASVW0yqgfttjx0LEvuPet0vHtpzn5/bA+qe22y/o4g3WebHpxsMKqe2A==" />
+    <form class="starred js-social-form" action="/abdelrazekrizk/abdelrazek.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rI4Gq+Eb+cocZIdqxv7nLout+l/SccrN2kY0jsFgmRw50qCBlrSqVAvzKbrQQPMoZbG3t09MTN9Dez1bdyKdqA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar StartBootstrap/startbootstrap-resume" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="d1a39d47e6b3de852f8baa5a767bd47f6be1b6b25d6e605bff6620e8f7670b8f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar abdelrazekrizk/abdelrazek.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ee5634e2b8e3854fd153a0e1c2a6a1054ab091d4327eda16dfe0dd8ae1c7d9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
           Unstar
-</span></button>        <a class="social-count js-social-count" href="/StartBootstrap/startbootstrap-resume/stargazers"
-           aria-label="1526 users starred this repository">
-           1.5k
+</span></button>        <a class="social-count js-social-count" href="/abdelrazekrizk/abdelrazek.github.io/stargazers"
+           aria-label="0 users starred this repository">
+           0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/StartBootstrap/startbootstrap-resume/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WC93Wq3oGxFn8Vrx8GepYZt0QggtPeYI0rC5+40ktBlwihcE9kYGvmYbj6GljJ4Z588PBxnP6PeBm7zPI+v+Rg==" />
+    <form class="unstarred js-social-form" action="/abdelrazekrizk/abdelrazek.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kqDNna3gz6nK8SdqRSw0WE7O2TL0YgQvqGKWFze2BYn6ysAvkAGqP40HNQgGHXRD3YqkV1aNqElg1wyrMTomSA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star StartBootstrap/startbootstrap-resume" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="6045148e966322df1ccfe80d2fc924159a2b8088d7e7289b972da9241656e4f2" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star abdelrazekrizk/abdelrazek.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="17eca95f41dd3995b8bbd08e9c195f1162e6e7600ca27ad9b8ba4881ea032941" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
           Star
-</span></button>        <a class="social-count js-social-count" href="/StartBootstrap/startbootstrap-resume/stargazers"
-           aria-label="1526 users starred this repository">
-          1.5k
+</span></button>        <a class="social-count js-social-count" href="/abdelrazekrizk/abdelrazek.github.io/stargazers"
+           aria-label="0 users starred this repository">
+          0
         </a>
 </form>  </div>
 
@@ -952,8 +955,8 @@
               <details class="details-reset details-overlay details-overlay-dark " >
                       <summary
                     class="btn btn-sm btn-with-count"
-                    title="Fork your own copy of StartBootstrap/startbootstrap-resume to your account"
-                    data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="294e71f9b0ed757d7a78fb31831e92f44b89abf0debb42b3be3a03c0c97dca2d" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
+                    title="Fork your own copy of abdelrazekrizk/abdelrazek.github.io to your account"
+                    data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="e4372a44e0e8f22cea2557f1413a0ca791699d77e97a0cc22761e10fe6b10679" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
                     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -962,8 +965,8 @@
 
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay "
-      aria-label="Fork startbootstrap-resume"
-      src="/StartBootstrap/startbootstrap-resume/fork?fragment=1"
+      aria-label="Fork abdelrazek.github.io"
+      src="/abdelrazekrizk/abdelrazek.github.io/fork?fragment=1"
       preload
     >
     <div class="Box-header">
@@ -972,13 +975,13 @@
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
       </button>
-      <h1 class="Box-title">Fork startbootstrap-resume</h1>
+      <h1 class="Box-title">Fork abdelrazek.github.io</h1>
     </div>
       
                 <div class="text-center overflow-auto">
                   <include-fragment>
                     <div class="octocat-spinner my-5" aria-label="Loading..."></div>
-                    <p class="f5 color-text-secondary">If this dialog fails to load, you can visit <a href="/StartBootstrap/startbootstrap-resume/fork">the fork page</a> directly.</p>
+                    <p class="f5 color-text-secondary">If this dialog fails to load, you can visit <a href="/abdelrazekrizk/abdelrazek.github.io/fork">the fork page</a> directly.</p>
                   </include-fragment>
                 </div>
 
@@ -986,9 +989,9 @@
 </details>
             </div>
 
-      <a href="/StartBootstrap/startbootstrap-resume/network/members" class="social-count"
-         aria-label="2217 users forked this repository">
-        2.2k
+      <a href="/abdelrazekrizk/abdelrazek.github.io/network/members" class="social-count"
+         aria-label="0 users forked this repository">
+        0
       </a>
   </li>
 </ul>
@@ -996,11 +999,11 @@
       </div>
         
 
-  <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 color-bg-secondary">
+  <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
 
     <ul data-view-component="true" class="UnderlineNav-body list-style-none">
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /StartBootstrap/startbootstrap-resume" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item selected">
+  <a href="/abdelrazekrizk/abdelrazek.github.io" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /abdelrazekrizk/abdelrazek.github.io" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
           <span data-content="Code">Code</span>
@@ -1009,25 +1012,25 @@
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /StartBootstrap/startbootstrap-resume/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /abdelrazekrizk/abdelrazek.github.io/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
-                  <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
+                  <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg>
           <span data-content="Issues">Issues</span>
             <span title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /StartBootstrap/startbootstrap-resume/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /abdelrazekrizk/abdelrazek.github.io/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
           <span data-content="Pull requests">Pull requests</span>
-            <span title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+            <span title="7" data-view-component="true" class="Counter">7</span>
 
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /StartBootstrap/startbootstrap-resume/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /abdelrazekrizk/abdelrazek.github.io/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
           <span data-content="Actions">Actions</span>
@@ -1036,7 +1039,7 @@
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /StartBootstrap/startbootstrap-resume/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /abdelrazekrizk/abdelrazek.github.io/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
           <span data-content="Projects">Projects</span>
@@ -1045,7 +1048,7 @@
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /StartBootstrap/startbootstrap-resume/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /abdelrazekrizk/abdelrazek.github.io/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
           <span data-content="Wiki">Wiki</span>
@@ -1054,19 +1057,28 @@
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /StartBootstrap/startbootstrap-resume/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /abdelrazekrizk/abdelrazek.github.io/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/StartBootstrap/startbootstrap-resume/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/abdelrazekrizk/abdelrazek.github.io/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a href="/StartBootstrap/startbootstrap-resume/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /StartBootstrap/startbootstrap-resume/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /abdelrazekrizk/abdelrazek.github.io/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
           <span data-content="Insights">Insights</span>
+            <span title="Not available" data-view-component="true" class="Counter"></span>
+
+    
+</a></li>
+        <li data-view-component="true" class="d-flex">
+  <a href="/abdelrazekrizk/abdelrazek.github.io/settings" data-tab-item="i8settings-tab" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications repository_environments interaction_limits /abdelrazekrizk/abdelrazek.github.io/settings" data-ga-click="Repository, Navigation click, Settings tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+          <span data-content="Settings">Settings</span>
             <span title="Not available" data-view-component="true" class="Counter"></span>
 
     
@@ -1084,36 +1096,40 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume" href="/StartBootstrap/startbootstrap-resume">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /abdelrazekrizk/abdelrazek.github.io" href="/abdelrazekrizk/abdelrazek.github.io">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/issues" href="/StartBootstrap/startbootstrap-resume/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /abdelrazekrizk/abdelrazek.github.io/issues" href="/abdelrazekrizk/abdelrazek.github.io/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/pulls" href="/StartBootstrap/startbootstrap-resume/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /abdelrazekrizk/abdelrazek.github.io/pulls" href="/abdelrazekrizk/abdelrazek.github.io/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/actions" href="/StartBootstrap/startbootstrap-resume/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /abdelrazekrizk/abdelrazek.github.io/actions" href="/abdelrazekrizk/abdelrazek.github.io/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/projects" href="/StartBootstrap/startbootstrap-resume/projects">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /abdelrazekrizk/abdelrazek.github.io/projects" href="/abdelrazekrizk/abdelrazek.github.io/projects">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/wiki" href="/StartBootstrap/startbootstrap-resume/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /abdelrazekrizk/abdelrazek.github.io/wiki" href="/abdelrazekrizk/abdelrazek.github.io/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/security" href="/StartBootstrap/startbootstrap-resume/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /abdelrazekrizk/abdelrazek.github.io/security" href="/abdelrazekrizk/abdelrazek.github.io/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /StartBootstrap/startbootstrap-resume/pulse" href="/StartBootstrap/startbootstrap-resume/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /abdelrazekrizk/abdelrazek.github.io/pulse" href="/abdelrazekrizk/abdelrazek.github.io/pulse">
                     Insights
+</a>                </li>
+                <li data-menu-item="i8settings-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications repository_environments interaction_limits /abdelrazekrizk/abdelrazek.github.io/settings" href="/abdelrazekrizk/abdelrazek.github.io/settings">
+                    Settings
 </a>                </li>
             </ul>
 
@@ -1134,9 +1150,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/StartBootstrap/startbootstrap-resume/blob/a608efbe6ade7422c28035803e348036fe7ce4fb/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/abdelrazekrizk/abdelrazek.github.io/blob/5140c9fe5ba639367bea3a64b12658d12faf7549/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:4ba63087ea8371f96c42b7af325d718a856b6f76428996ca5f1098fac7a40e09 -->
+    <!-- blob contrib key: blob_contributors:v22:e53e20b420fa57960f0fe7607c888f2118356fc0921f4b6608561589063e3883 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1172,8 +1188,8 @@
                  data-controls-ref-menu-id="ref-list-branches"
                  autofocus
                  autocomplete="off"
-                 aria-label="Filter branches/tags"
-                 placeholder="Filter branches/tags"
+                 aria-label="Find or create a branch…"
+                 placeholder="Find or create a branch…"
                  type="text"
           >
         </div>
@@ -1183,7 +1199,7 @@
           <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
         </div>
 
-        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" class="d-flex flex-column flex-auto overflow-auto" tabindex="">
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Find or create a branch…" class="d-flex flex-column flex-auto overflow-auto" tabindex="">
           <ref-selector
             type="branch"
             data-targets="input-demux.sinks"
@@ -1192,12 +1208,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/StartBootstrap/startbootstrap-resume/refs"
-            
-            cache-key="v0:1621529765.6495512"
+            query-endpoint="/abdelrazekrizk/abdelrazek.github.io/refs"
+            current-user-can-push
+            cache-key="v0:1623780823.6820202"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="U3RhcnRCb290c3RyYXAvc3RhcnRib290c3RyYXAtcmVzdW1l"
+            name-with-owner="YWJkZWxyYXpla3JpemsvYWJkZWxyYXplay5naXRodWIuaW8="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1205,12 +1221,25 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <div class="SelectMenu-message">Nothing to show</div>
-</template>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/abdelrazekrizk/abdelrazek.github.io/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CZFcqVp+kA2OZcWnvsRRszL8wR9RqqyABfewwqy0pkIAz47ZYpICpxUi4yk3gziAOqLodlw+2+FO+do63DUTow==" />
+      <input type="hidden" name="name" value="{{ refName }}">
+      <input type="hidden" name="branch"  value="master">
+      <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
+
+      <button class="SelectMenu-item break-word" type="submit" role="menuitem" data-index="{{ index }}">
+        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
+    <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
+</svg>
+        <div>
+          <span class="text-bold">Create branch: {{ refName }}</span>
+          <span class="color-text-tertiary">from ‘master’</span>
+        </div>
+      </button>
+</form></template>
 
 
             <!-- TODO: this max-height is necessary or else the branch list won't scroll.  why? -->
-            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " style="max-height: 330px">
+            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " style="max-height: 330px" data-pjax="#repo-content-pjax-container">
               <div class="SelectMenu-loading pt-3 pb-0" aria-label="Menu is loading">
                 <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" data-view-component="true" width="32" height="32" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1220,15 +1249,17 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/StartBootstrap/startbootstrap-resume/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
-    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+  <a href="https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
     <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
     <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
   </a>
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/StartBootstrap/startbootstrap-resume/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/abdelrazekrizk/abdelrazek.github.io/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -1242,11 +1273,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/StartBootstrap/startbootstrap-resume/refs"
-            cache-key="v0:1621529765.6495512"
+            query-endpoint="/abdelrazekrizk/abdelrazek.github.io/refs"
+            cache-key="v0:1623780823.6820202"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="U3RhcnRCb290c3RyYXAvc3RhcnRib290c3RyYXAtcmVzdW1l"
+            name-with-owner="YWJkZWxyYXpla3JpemsvYWJkZWxyYXplay5naXRodWIuaW8="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1258,15 +1289,17 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/StartBootstrap/startbootstrap-resume/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
-    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+  <a href="https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
     <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
     <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
   </a>
 </template>
 
 
-            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list" style="max-height: 330px">
+            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list" style="max-height: 330px" data-pjax="#repo-content-pjax-container">
               <div class="SelectMenu-loading pt-3 pb-0" aria-label="Menu is loading">
                 <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" data-view-component="true" width="32" height="32" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1274,7 +1307,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/StartBootstrap/startbootstrap-resume/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/abdelrazekrizk/abdelrazek.github.io/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -1287,9 +1320,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/StartBootstrap/startbootstrap-resume"><span>startbootstrap-resume</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/abdelrazekrizk/abdelrazek.github.io"><span>abdelrazek.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
-      <a href="/StartBootstrap/startbootstrap-resume/find/master"
+      <a href="/abdelrazekrizk/abdelrazek.github.io/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1308,7 +1341,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="4a0775ef388f3284cf07099f57593c594fea665dce3611c9a6158dadfbde7f0d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/StartBootstrap/startbootstrap-resume/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="d1885754ca69f7d0c01cd47b2958e6c1e6f9ae87ada09dace15e1034dcc4952d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/abdelrazekrizk/abdelrazek.github.io/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1327,7 +1360,7 @@
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/StartBootstrap/startbootstrap-resume/blob/a608efbe6ade7422c28035803e348036fe7ce4fb/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/5140c9fe5ba639367bea3a64b12658d12faf7549/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1339,8 +1372,9 @@
 
 
 
+
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/StartBootstrap/startbootstrap-resume/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/abdelrazekrizk/abdelrazek.github.io/contributors/master/README.md" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1351,6 +1385,19 @@
           <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
 </include-fragment>    </div>
+
+      <div class="flash flash-warn mb-3 d-flex flex-justify-between flex-column flex-md-row flex-md-items-center">
+  <div class="flex-column mb-2 mb-md-0 mr-0 pr-md-4">
+    <h5 class="mb-1"><svg height="18" class="octicon octicon-alert mr-1" viewBox="0 0 16 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>We found potential security vulnerabilities in your dependencies.</h5>
+
+    <p class="text-small">
+        Only the owner of this repository can see this message.
+    </p>
+  </div>
+  <div>
+    <a href="/abdelrazekrizk/abdelrazek.github.io/security/dependabot" class="btn mt-2 mt-md-0" data-pjax data-octo-click="vuln_alert_review">See Dependabot alerts</a>
+  </div>
+</div>
 
 
 
@@ -1375,32 +1422,35 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}"
-  data-menu-hydro-click-hmac="6aaca0e5903fbaf8ba10bc4f910375e5fa8af34b085f2b38748094b5fe75e197"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}"
+  data-menu-hydro-click-hmac="622df77db4d98e5378bc86d464a1b7715342db23b5c6854af24b102713c882e8"
   class="dropdown details-reset details-overlay"
 >
   <summary
     class="btn btn-octicon m-0 mr-2 p-2"
     aria-haspopup="true"
     aria-label="Table of Contents">
-    <svg height="16" class="octicon octicon-list-unordered" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path></svg>
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-list-unordered">
+    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+</svg>
   </summary>
 
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
 
-          <a role="menuitem" class="filter-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#start-bootstrap---resume">Start Bootstrap - Resume</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#preview">Preview</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#status">Status</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#download-and-installation">Download and Installation</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#usage">Usage</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#basic-usage">Basic Usage</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#advanced-usage">Advanced Usage</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#npm-scripts">npm Scripts</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#bugs-and-issues">Bugs and Issues</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#about">About</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:108500610,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="65ed8809fb0ebea13c4672179dc518c039d92130c5f402618e66c15b658c012c" href="#copyright-and-license">Copyright and License</a>
+          <a role="menuitem" class="filter-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#start-bootstrap---freelancer">Start Bootstrap - Freelancer</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#preview">Preview</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#status">Status</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#download-and-installation">Download and Installation</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#usage">Usage</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#basic-usage">Basic Usage</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#advanced-usage">Advanced Usage</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#gulp-tasks">Gulp Tasks</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#troubleshooting-and-help">Troubleshooting and Help</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#bugs-and-issues">Bugs and Issues</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#about">About</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:166779673,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}" data-hydro-click-hmac="450ece1a554e7b008b02b73cd3f95b4834187f59707aa776fda0331b4dbe263b" href="#copyright-and-license">Copyright and License</a>
       </div>
     </div>
   </details-menu>
@@ -1409,21 +1459,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      71 lines (44 sloc)
+      74 lines (45 sloc)
       <span class="file-info-divider"></span>
-    4.2 KB
+    4.55 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/StartBootstrap/startbootstrap-resume/raw/master/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/abdelrazekrizk/abdelrazek.github.io/raw/master/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/StartBootstrap/startbootstrap-resume/blame/master/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/abdelrazekrizk/abdelrazek.github.io/blame/master/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1434,7 +1484,7 @@
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/StartBootstrap/startbootstrap-resume?branch=master&amp;filepath=README.md"
+             href="x-github-client://openRepo/https://github.com/abdelrazekrizk/abdelrazek.github.io?branch=master&amp;filepath=README.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-desktop">
@@ -1442,17 +1492,17 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/StartBootstrap/startbootstrap-resume/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ram4pVOTdYK9adslPejPyzjuOTFQmczB5Bzvgcey/ao2is6vUREcVBGqElnv3P7hXFgvzRjCXKlrnGnzgXKs0g==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/abdelrazekrizk/abdelrazek.github.io/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wOeATzIpJPSFIDGeuxtwQ3VgA7XLuoiVjaI+PRv/6VQiYZSc+MOARuH/KM83PE6/RthM8dxEl/ETLZf3jRPJOA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
+              aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/StartBootstrap/startbootstrap-resume/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vTj4ifqIRqWljwYjGdKQ9fUBVbvFJmcgZqIuyxhMc82m8T6+HenBeCYx6zfe4wj2vp/H9uxd+YnRzKuZBLWIbA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/abdelrazekrizk/abdelrazek.github.io/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="b1F6twKez+FGrBOYOdoy7LLatAqm7002SxgGKnOdkG9PdNAvsQgqhbgwrM7YPpFYYCB1+rGWEYltXT7ejVfXlQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete the file in your fork of this project" data-disable-with>
+              aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
 </svg>
@@ -1463,35 +1513,37 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
-          <svg height="16" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
+          <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
         </summary>
 
         <ul class="dropdown-menu dropdown-menu-sw">
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/StartBootstrap/startbootstrap-resume?branch=master&amp;filepath=README.md"
+                   href="x-github-client://openRepo/https://github.com/abdelrazekrizk/abdelrazek.github.io?branch=master&amp;filepath=README.md"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/StartBootstrap/startbootstrap-resume/raw/master/README.md">
+            <a class="dropdown-item" href="/abdelrazekrizk/abdelrazek.github.io/raw/master/README.md">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/StartBootstrap/startbootstrap-resume/blame/master/README.md">
+              <a class="dropdown-item" href="/abdelrazekrizk/abdelrazek.github.io/blame/master/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/StartBootstrap/startbootstrap-resume/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/abdelrazekrizk/abdelrazek.github.io/edit/master/README.md">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/StartBootstrap/startbootstrap-resume/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/abdelrazekrizk/abdelrazek.github.io/delete/master/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1500,58 +1552,59 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-start-bootstrap---resume" class="anchor" aria-hidden="true" href="#start-bootstrap---resume"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://startbootstrap.com/theme/resume/" rel="nofollow">Start Bootstrap - Resume</a></h1>
-<p><a href="https://startbootstrap.com/theme/resume/" rel="nofollow">Resume</a> is a resume and CV theme for <a href="https://getbootstrap.com/" rel="nofollow">Bootstrap</a> created by <a href="https://startbootstrap.com/" rel="nofollow">Start Bootstrap</a>. This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-start-bootstrap---freelancer" class="anchor" aria-hidden="true" href="#start-bootstrap---freelancer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://startbootstrap.com/template-overviews/freelancer/" rel="nofollow">Start Bootstrap - Freelancer</a></h1>
+<p><a href="http://startbootstrap.com/template-overviews/freelancer/" rel="nofollow">Freelancer</a> is a one page freelancer portfolio theme for <a href="http://getbootstrap.com/" rel="nofollow">Bootstrap</a> created by <a href="http://startbootstrap.com/" rel="nofollow">Start Bootstrap</a>. This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.</p>
 <h2><a id="user-content-preview" class="anchor" aria-hidden="true" href="#preview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Preview</h2>
-<p><a href="https://startbootstrap.github.io/startbootstrap-resume/" rel="nofollow"><img src="https://camo.githubusercontent.com/881340bcf6fb402410fc7fe0f6f4339c5bd80d377ee7b38743211407a1b8f291/68747470733a2f2f6173736574732e7374617274626f6f7473747261702e636f6d2f696d672f73637265656e73686f74732f7468656d65732f726573756d652e706e67" alt="Resume Preview" data-canonical-src="https://assets.startbootstrap.com/img/screenshots/themes/resume.png" style="max-width:100%;"></a></p>
-<p><strong><a href="https://startbootstrap.github.io/startbootstrap-resume/" rel="nofollow">View Live Preview</a></strong></p>
+<p><a href="https://blackrockdigital.github.io/startbootstrap-freelancer/" rel="nofollow"><img src="https://camo.githubusercontent.com/c16aa2fbaa344c7a5bb8b04818dd81f888f0b474a4400298278e515a4f74ed39/68747470733a2f2f7374617274626f6f7473747261702e636f6d2f6173736574732f696d672f74656d706c617465732f667265656c616e6365722e6a7067" alt="Freelancer Preview" data-canonical-src="https://startbootstrap.com/assets/img/templates/freelancer.jpg" style="max-width:100%;"></a></p>
+<p><strong><a href="https://blackrockdigital.github.io/startbootstrap-freelancer/" rel="nofollow">View Live Preview</a></strong></p>
 <h2><a id="user-content-status" class="anchor" aria-hidden="true" href="#status"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Status</h2>
-<p><a href="https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE" rel="nofollow"><img src="https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" alt="GitHub license" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width:100%;"></a>
-<a href="https://www.npmjs.com/package/startbootstrap-resume" rel="nofollow"><img src="https://camo.githubusercontent.com/08344ca7d6567d2287b471930727e7747e058bffa4df15b3a6077e1025463969/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7374617274626f6f7473747261702d726573756d652e737667" alt="npm version" data-canonical-src="https://img.shields.io/npm/v/startbootstrap-resume.svg" style="max-width:100%;"></a>
-<a href="https://david-dm.org/StartBootstrap/startbootstrap-resume" rel="nofollow"><img src="https://camo.githubusercontent.com/3d1eb90f39a257c3ab9b91d753e4ac77d29e99ab9a8f0bcea80c350c54805c3c/68747470733a2f2f64617669642d646d2e6f72672f5374617274426f6f7473747261702f7374617274626f6f7473747261702d726573756d652f7374617475732e737667" alt="dependencies Status" data-canonical-src="https://david-dm.org/StartBootstrap/startbootstrap-resume/status.svg" style="max-width:100%;"></a>
-<a href="https://david-dm.org/StartBootstrap/startbootstrap-resume?type=dev" rel="nofollow"><img src="https://camo.githubusercontent.com/5b33ce8c2cd5e489f459e03257c822d3910eeaa4f446a073741a9e457bc186d4/68747470733a2f2f64617669642d646d2e6f72672f5374617274426f6f7473747261702f7374617274626f6f7473747261702d726573756d652f6465762d7374617475732e737667" alt="devDependencies Status" data-canonical-src="https://david-dm.org/StartBootstrap/startbootstrap-resume/dev-status.svg" style="max-width:100%;"></a></p>
+<p><a href="https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE" rel="nofollow"><img src="https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" alt="GitHub license" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width:100%;"></a>
+<a href="https://www.npmjs.com/package/startbootstrap-freelancer" rel="nofollow"><img src="https://camo.githubusercontent.com/813f0a73a89ec1cd119cc4c76a432488021ad6d8b73030a54da7de502e325675/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7374617274626f6f7473747261702d667265656c616e6365722e737667" alt="npm version" data-canonical-src="https://img.shields.io/npm/v/startbootstrap-freelancer.svg" style="max-width:100%;"></a>
+<a href="https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer" rel="nofollow"><img src="https://camo.githubusercontent.com/b5f769f2ade7e0e5aa4c24ec29c3545dff96cca453e0f28234ae028c9eafe8c7/68747470733a2f2f7472617669732d63692e6f72672f426c61636b726f636b4469676974616c2f7374617274626f6f7473747261702d667265656c616e6365722e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer.svg?branch=master" style="max-width:100%;"></a>
+<a href="https://david-dm.org/BlackrockDigital/startbootstrap-freelancer" rel="nofollow"><img src="https://camo.githubusercontent.com/03e949cfe3010343244c97e830f6a0c820e9f44e7a5712aca6ab83032778fef9/68747470733a2f2f64617669642d646d2e6f72672f426c61636b726f636b4469676974616c2f7374617274626f6f7473747261702d667265656c616e6365722f7374617475732e737667" alt="dependencies Status" data-canonical-src="https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg" style="max-width:100%;"></a>
+<a href="https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c54f0106eb2540c6cef3b51b0bb84cd3d4471291c24adad5aa6bdc4db7e6ac93/68747470733a2f2f64617669642d646d2e6f72672f426c61636b726f636b4469676974616c2f7374617274626f6f7473747261702d667265656c616e6365722f6465762d7374617475732e737667" alt="devDependencies Status" data-canonical-src="https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg" style="max-width:100%;"></a></p>
 <h2><a id="user-content-download-and-installation" class="anchor" aria-hidden="true" href="#download-and-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Download and Installation</h2>
 <p>To begin using this template, choose one of the following options to get started:</p>
 <ul>
-<li><a href="https://startbootstrap.com/theme/resume/" rel="nofollow">Download the latest release on Start Bootstrap</a></li>
-<li>Install using npm: <code>npm i startbootstrap-resume</code></li>
-<li>Clone the repo: <code>git clone https://github.com/StartBootstrap/startbootstrap-resume.git</code></li>
-<li><a href="https://github.com/StartBootstrap/startbootstrap-resume">Fork, Clone, or Download on GitHub</a></li>
+<li><a href="https://startbootstrap.com/template-overviews/freelancer/" rel="nofollow">Download the latest release on Start Bootstrap</a></li>
+<li>Install via npm: <code>npm i startbootstrap-freelancer</code></li>
+<li>Clone the repo: <code>git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git</code></li>
+<li><a href="https://github.com/BlackrockDigital/startbootstrap-freelancer">Fork, Clone, or Download on GitHub</a></li>
 </ul>
 <h2><a id="user-content-usage" class="anchor" aria-hidden="true" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Usage</h2>
 <h3><a id="user-content-basic-usage" class="anchor" aria-hidden="true" href="#basic-usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Basic Usage</h3>
-<p>After downloading, simply edit the HTML and CSS files included with <code>dist</code> directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the <code>index.html</code> file in your web browser.</p>
+<p>After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the <code>index.html</code> file in your web browser.</p>
 <h3><a id="user-content-advanced-usage" class="anchor" aria-hidden="true" href="#advanced-usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Advanced Usage</h3>
-<p>Clone the source files of the theme and navigate into the theme's root directory. Run <code>npm install</code> and then run <code>npm start</code> which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the <code>package.json</code> file to see which scripts are included.</p>
-<h4><a id="user-content-npm-scripts" class="anchor" aria-hidden="true" href="#npm-scripts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>npm Scripts</h4>
+<p>After installation, run <code>npm install</code> and then run <code>gulp dev</code> which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the <code>gulpfile.js</code> to see which tasks are included with the dev environment.</p>
+<h4><a id="user-content-gulp-tasks" class="anchor" aria-hidden="true" href="#gulp-tasks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Gulp Tasks</h4>
 <ul>
-<li><code>npm run build</code> builds the project - this builds assets, HTML, JS, and CSS into <code>dist</code></li>
-<li><code>npm run build:assets</code> copies the files in the <code>src/assets/</code> directory into <code>dist</code></li>
-<li><code>npm run build:pug</code> compiles the Pug located in the <code>src/pug/</code> directory into <code>dist</code></li>
-<li><code>npm run build:scripts</code> brings the <code>src/js/scripts.js</code> file into <code>dist</code></li>
-<li><code>npm run build:scss</code> compiles the SCSS files located in the <code>src/scss/</code> directory into <code>dist</code></li>
-<li><code>npm run clean</code> deletes the <code>dist</code> directory to prepare for rebuilding the project</li>
-<li><code>npm run start:debug</code> runs the project in debug mode</li>
-<li><code>npm start</code> or <code>npm run start</code> runs the project, launches a live preview in your default browser, and watches for changes made to files in <code>src</code></li>
+<li><code>gulp</code> the default task that builds everything</li>
+<li><code>gulp dev</code> browserSync opens the project in your default browser and live reloads when changes are made</li>
+<li><code>gulp css</code> compiles SCSS files into CSS and minifies the compiled CSS</li>
+<li><code>gulp js</code> minifies the themes JS file</li>
+<li><code>gulp vendor</code> copies dependencies from node_modules to the vendor directory</li>
 </ul>
-<p>You must have npm installed in order to use this build environment.</p>
+<p>You must have npm and Gulp installed globally on your machine in order to use these features.</p>
+<h2><a id="user-content-troubleshooting-and-help" class="anchor" aria-hidden="true" href="#troubleshooting-and-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Troubleshooting and Help</h2>
+<p>Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.</p>
+<p><strong><a href="https://startbootstrap-slack.herokuapp.com/" rel="nofollow">Click here to join the Slack channel!</a></strong></p>
 <h2><a id="user-content-bugs-and-issues" class="anchor" aria-hidden="true" href="#bugs-and-issues"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Bugs and Issues</h2>
-<p>Have a bug or an issue with this template? <a href="https://github.com/StartBootstrap/startbootstrap-resume/issues">Open a new issue</a> here on GitHub or leave a comment on the <a href="https://startbootstrap.com/theme/resume/" rel="nofollow">theme overview page at Start Bootstrap</a>.</p>
+<p>Have a bug or an issue with this template? <a href="https://github.com/BlackrockDigital/startbootstrap-freelancer/issues">Open a new issue</a> here on GitHub or leave a comment on the <a href="http://startbootstrap.com/template-overviews/freelancer/" rel="nofollow">template overview page at Start Bootstrap</a>.</p>
 <h2><a id="user-content-about" class="anchor" aria-hidden="true" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About</h2>
-<p>Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.</p>
+<p>Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.</p>
 <ul>
 <li><a href="https://startbootstrap.com" rel="nofollow">https://startbootstrap.com</a></li>
 <li><a href="https://twitter.com/SBootstrap" rel="nofollow">https://twitter.com/SBootstrap</a></li>
 </ul>
-<p>Start Bootstrap was created by and is maintained by <strong><a href="https://davidmiller.io/" rel="nofollow">David Miller</a></strong>.</p>
+<p>Start Bootstrap was created by and is maintained by <strong><a href="http://davidmiller.io/" rel="nofollow">David Miller</a></strong>, Owner of <a href="http://blackrockdigital.io/" rel="nofollow">Blackrock Digital</a>.</p>
 <ul>
-<li><a href="https://davidmiller.io" rel="nofollow">https://davidmiller.io</a></li>
-<li><a href="https://twitter.com/davidmillerhere" rel="nofollow">https://twitter.com/davidmillerhere</a></li>
+<li><a href="http://davidmiller.io" rel="nofollow">http://davidmiller.io</a></li>
+<li><a href="https://twitter.com/davidmillerskt" rel="nofollow">https://twitter.com/davidmillerskt</a></li>
 <li><a href="https://github.com/davidtmiller">https://github.com/davidtmiller</a></li>
 </ul>
-<p>Start Bootstrap is based on the <a href="https://getbootstrap.com/" rel="nofollow">Bootstrap</a> framework created by <a href="https://twitter.com/mdo" rel="nofollow">Mark Otto</a> and <a href="https://twitter.com/fat" rel="nofollow">Jacob Thorton</a>.</p>
+<p>Start Bootstrap is based on the <a href="http://getbootstrap.com/" rel="nofollow">Bootstrap</a> framework created by <a href="https://twitter.com/mdo" rel="nofollow">Mark Otto</a> and <a href="https://twitter.com/fat" rel="nofollow">Jacob Thorton</a>.</p>
 <h2><a id="user-content-copyright-and-license" class="anchor" aria-hidden="true" href="#copyright-and-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Copyright and License</h2>
-<p>Copyright 2013-2021 Start Bootstrap LLC. Code released under the <a href="https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE">MIT</a> license.</p>
+<p>Copyright 2013-2018 Blackrock Digital LLC. Code released under the <a href="https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE">MIT</a> license.</p>
 </article>
   </div>
 
@@ -1566,18 +1619,23 @@
     <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
         <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button type="submit" class="btn" data-close-dialog>Go</button>
+        <button data-close-dialog="" type="submit" data-view-component="true" class="btn">
+  
+  Go
+  
+
+</button>
 </form>    </details-dialog>
   </details>
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/StartBootstrap/startbootstrap-resume/find-definition"
+     data-tagsearch-url="/abdelrazekrizk/abdelrazek.github.io/find-definition"
      data-tagsearch-ref="master"
      data-tagsearch-path="README.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:108500610,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/StartBootstrap/startbootstrap-resume/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}"
-     data-hydro-click-hmac="91463b94938d3b4d46b44cb66a9c7da5935434771ac95b313dadbc769717a596">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:166779673,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/abdelrazekrizk/abdelrazek.github.io/blob/master/README.md&quot;,&quot;user_id&quot;:9618515}}"
+     data-hydro-click-hmac="b779ce555fa70e4f4c707e24aff163ca0f6156644b3c4676b0c32d2b05741ea6">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
@@ -1610,7 +1668,9 @@
     </ul>
 
     <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
-      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="24" width="24" class="octicon octicon-mark-github">
+    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
         <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
